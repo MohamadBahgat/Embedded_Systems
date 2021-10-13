@@ -18,6 +18,6 @@ development kit on the MET website).
 
 # Aim:
 
-- Understand the benefits of using the development kit
-- Learn how to implement ADC
-- Practice to be ready for the project later
+- Understand the benefits of using the development kit.
+- Learn how to implement ADC.
+- Practice to be ready for the project later.
